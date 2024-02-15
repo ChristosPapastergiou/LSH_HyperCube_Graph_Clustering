@@ -1,20 +1,15 @@
-# Locality-Sensitive Hashing (LSH)
-# HyperCube
-# Graph Search Algorithms (GNN, MRNG)
-# Clustring (Kmeans++, Macqueen)
+# Locality-Sensitive Hashing (LSH), HyperCube, Graph Search Algorithms (GNN, MRNG), Clustring (Kmeans++, Macqueen)
 
-Implementation of 
+Implementation of searching algorithms to find the most similar images. This project is using the Mnist dataset.
 
-A basic implementation of a shell. The goal of this task is to familiarize you with 
-the creation and management of processes and files and signals, writing a simple mysh
-shell (my simple shell) in a Linux environment and in the C programming language.
 
 --------------------------------
 How to compile and run
 --------------------------------
-- cd in the source file
-- cd in the wanted file (cluster, cube, graph_search, lsh, NNet)
-  
+
+    cd in the source file
+    cd in the wanted file (cluster, cube, graph_search, lsh, NNet)
+    
     compile : make
     run     : ./"file_name".c
     
