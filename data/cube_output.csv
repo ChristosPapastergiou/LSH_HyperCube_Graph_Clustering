@@ -1,0 +1,284 @@
+Query : 1
+Nearest neighbor - 1 : 31731
+ distanceCube : 1225.608828
+ distanceTrue : 676.584067
+Nearest neighbor - 2 : 37423
+ distanceCube : 1255.705379
+ distanceTrue : 793.986776
+Nearest neighbor - 3 : 1655
+ distanceCube : 1301.828714
+ distanceTrue : 862.676649
+Nearest neighbor - 4 : 24655
+ distanceCube : 1376.418904
+ distanceTrue : 864.503904
+Nearest neighbor - 5 : 8107
+ distanceCube : 1383.307269
+ distanceTrue : 894.699950
+Nearest neighbor - 6 : 40214
+ distanceCube : 1393.083271
+ distanceTrue : 909.704348
+Nearest neighbor - 7 : 31459
+ distanceCube : 1394.356841
+ distanceTrue : 917.632279
+Nearest neighbor - 8 : 49045
+ distanceCube : 1424.019312
+ distanceTrue : 921.624110
+Nearest neighbor - 9 : 24743
+ distanceCube : 1431.096782
+ distanceTrue : 922.146951
+Nearest neighbor - 10 : 8616
+ distanceCube : 1458.987320
+ distanceTrue : 943.497218
+tCube : 0.003241
+tTrue : 0.207447
+AF    : 1.811466
+R-near neighbours : 
+80
+822
+14025
+14248
+15325
+19571
+19704
+31373
+36635
+37035
+38228
+38353
+45859
+45971
+55509
+2900
+4494
+8319
+13474
+14168
+
+Query : 2
+Nearest neighbor - 1 : 22070
+ distanceCube : 1903.395913
+ distanceTrue : 1162.931640
+Nearest neighbor - 2 : 57338
+ distanceCube : 1955.121224
+ distanceTrue : 1211.844462
+Nearest neighbor - 3 : 40107
+ distanceCube : 2028.393206
+ distanceTrue : 1285.928458
+Nearest neighbor - 4 : 32678
+ distanceCube : 2075.988198
+ distanceTrue : 1292.118416
+Nearest neighbor - 5 : 49981
+ distanceCube : 2086.157233
+ distanceTrue : 1330.796378
+Nearest neighbor - 6 : 37625
+ distanceCube : 2104.454799
+ distanceTrue : 1365.368082
+Nearest neighbor - 7 : 21147
+ distanceCube : 2111.855109
+ distanceTrue : 1374.848355
+Nearest neighbor - 8 : 33526
+ distanceCube : 2121.277445
+ distanceTrue : 1408.383826
+Nearest neighbor - 9 : 34540
+ distanceCube : 2153.256139
+ distanceTrue : 1410.392853
+Nearest neighbor - 10 : 26032
+ distanceCube : 2158.116540
+ distanceTrue : 1432.937891
+tCube : 0.003149
+tTrue : 0.193295
+AF    : 1.636722
+R-near neighbours : 
+18939
+23736
+32622
+32959
+38184
+38632
+40904
+43225
+45399
+49209
+52935
+53662
+54226
+56593
+4021
+5976
+11658
+15002
+15243
+22071
+
+Query : 3
+Nearest neighbor - 1 : 7469
+ distanceCube : 569.866651
+ distanceTrue : 321.662867
+Nearest neighbor - 2 : 14995
+ distanceCube : 688.484568
+ distanceTrue : 332.463532
+Nearest neighbor - 3 : 14196
+ distanceCube : 699.357562
+ distanceTrue : 341.048384
+Nearest neighbor - 4 : 31296
+ distanceCube : 802.601395
+ distanceTrue : 367.714563
+Nearest neighbor - 5 : 38425
+ distanceCube : 840.074997
+ distanceTrue : 377.330094
+Nearest neighbor - 6 : 31019
+ distanceCube : 866.975778
+ distanceTrue : 416.665333
+Nearest neighbor - 7 : 52505
+ distanceCube : 897.423534
+ distanceTrue : 429.134012
+Nearest neighbor - 8 : 40714
+ distanceCube : 926.208400
+ distanceTrue : 431.847195
+Nearest neighbor - 9 : 38736
+ distanceCube : 927.041531
+ distanceTrue : 439.352933
+Nearest neighbor - 10 : 38449
+ distanceCube : 934.465623
+ distanceTrue : 442.757270
+tCube : 0.003145
+tTrue : 0.185678
+AF    : 1.771627
+R-near neighbours : 
+11188
+13752
+14850
+15487
+17324
+17745
+19302
+36416
+40041
+44306
+44938
+46848
+49635
+51185
+56823
+813
+1987
+7018
+8248
+21508
+
+Query : 4
+Nearest neighbor - 1 : 3778
+ distanceCube : 1561.439080
+ distanceTrue : 1221.582580
+Nearest neighbor - 2 : 24151
+ distanceCube : 1568.372405
+ distanceTrue : 1228.232063
+Nearest neighbor - 3 : 32625
+ distanceCube : 1569.870695
+ distanceTrue : 1238.338807
+Nearest neighbor - 4 : 47139
+ distanceCube : 1623.881461
+ distanceTrue : 1251.648912
+Nearest neighbor - 5 : 28510
+ distanceCube : 1738.828629
+ distanceTrue : 1297.786577
+Nearest neighbor - 6 : 9215
+ distanceCube : 1786.110299
+ distanceTrue : 1304.358846
+Nearest neighbor - 7 : 12134
+ distanceCube : 1821.788956
+ distanceTrue : 1304.548198
+Nearest neighbor - 8 : 24034
+ distanceCube : 1845.917658
+ distanceTrue : 1309.824416
+Nearest neighbor - 9 : 30240
+ distanceCube : 1865.392184
+ distanceTrue : 1317.403127
+Nearest neighbor - 10 : 19490
+ distanceCube : 1873.602146
+ distanceTrue : 1324.513118
+tCube : 0.003111
+tTrue : 0.177118
+AF    : 1.278210
+R-near neighbours : 
+3032
+6536
+12271
+13081
+15575
+16293
+34506
+35243
+37822
+38340
+38527
+39887
+46163
+54205
+56419
+59739
+8697
+17889
+18942
+31296
+
+Query : 5
+Nearest neighbor - 1 : 5046
+ distanceCube : 1510.486346
+ distanceTrue : 1092.534668
+Nearest neighbor - 2 : 8768
+ distanceCube : 1625.604195
+ distanceTrue : 1096.045619
+Nearest neighbor - 3 : 13304
+ distanceCube : 1634.898468
+ distanceTrue : 1169.343833
+Nearest neighbor - 4 : 12646
+ distanceCube : 1643.702224
+ distanceTrue : 1171.875847
+Nearest neighbor - 5 : 988
+ distanceCube : 1651.261942
+ distanceTrue : 1194.180053
+Nearest neighbor - 6 : 32832
+ distanceCube : 1657.559350
+ distanceTrue : 1213.618556
+Nearest neighbor - 7 : 37242
+ distanceCube : 1680.629941
+ distanceTrue : 1239.341761
+Nearest neighbor - 8 : 50182
+ distanceCube : 1701.678583
+ distanceTrue : 1247.816894
+Nearest neighbor - 9 : 48582
+ distanceCube : 1718.334659
+ distanceTrue : 1288.207670
+Nearest neighbor - 10 : 43928
+ distanceCube : 1738.721657
+ distanceTrue : 1293.149643
+tCube : 0.003083
+tTrue : 0.170143
+AF    : 1.382552
+R-near neighbours : 
+8034
+22154
+26110
+30032
+32327
+33424
+49520
+49992
+50653
+51300
+58393
+58429
+58712
+1581
+7358
+11551
+17627
+17916
+21807
+28301
+
+tAverageCube : 0.003146
+tAverageTrue : 0.186736
+MAF : 1.811466
+AAF : 1.512927
