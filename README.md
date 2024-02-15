@@ -1,4 +1,4 @@
-# Locality-Sensitive Hashing (LSH), HyperCube, Graph Search Algorithms (GNN, MRNG), Clustring (Kmeans++, Macqueen)
+# Locality-Sensitive Hashing (LSH), HyperCube, Graph Search Algorithms (GNN, MRNG), Cluster (Kmeans++, Macqueen)
 
 Implementation of searching algorithms to find the most similar images. This project is using the Mnist dataset.
 
