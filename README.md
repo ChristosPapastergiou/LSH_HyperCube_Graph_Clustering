@@ -20,3 +20,5 @@ In order to compile and run a technique you must choose (filename) : lsh, cube, 
 As you can see there is a **data** file. In this file the results of the algorithms are stored. 
 Except this there are graph models for different data dimensions. The autoencoder that it is uploaded to my profile is being used here.
 You can observe that the time of the lower dimension data is way less than the normal dimension of the data.  
+
+In collaboration with [Dimitriadis Christos](https://github.com/chrisdimCs)
